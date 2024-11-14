@@ -195,4 +195,4 @@ Great start! Now, let's break down the steps to develop each service in your mic
 2. **Integration Testing**: Test communication between services.
 3. **Load Testing**: Use **Locust** or **JMeter** to simulate high traffic and ensure scalability.
 
-This structured approach provides a comprehensive design and deployment strategy for your large-scale app using microservices, ensuring flexibility, security, and scalability across your application.
+This structured approach provides a comprehensive design and deployment strategy for your large-scale app using microservices, ensuring flexibility, security, and scalability across your application.~
